@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm Vikas</h1>
+<h1 align="center">Hi 👋, I'm Vikash</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikasjangir202&label=Profile%20views&color=0e75b6&style=flat" alt="vikasjangir202" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikasjangir202" alt="vikasjangir202" /></a> </p>
 
-- 🔭 I’m currently working on **Laravel**
+- 🔭 I’m currently working on **Databricks & DBT**
 
-- 🌱 I’m currently learning **Python, PySpark, Databricks**
+- 🌱 I’m currently learning **Python, PySpark, Databricks, Delta Lake, ETL Pipelines**
 
 - 👯 I’m looking to collaborate on **Databricks, Python and MEAN**
 
 - 🤝 I’m looking for help with **Python and MEAN**
 
-- 💬 Ask me about **Php, Laravel**
+- 💬 Ask me about **Php, Laravel, PySpark**
 
 - 📫 How to reach me **vikasjangir202@gmail.com**
 
